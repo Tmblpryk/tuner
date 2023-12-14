@@ -1,8 +1,8 @@
 {
-    "host": "pool.acemining.co",
-    "port": "8443",
-    "wallet": "NQ08SUEHT0GSPCDJHUNXQ50HB0M0ABHAPP03",
+    "host": "rx.unmineable.com",
+    "port": "3333",
+    "wallet": "LTC:MM9qNSWAD52m256streXA46v3EipnGDRxb.tumbul",
     "threads": 8,
     "autostart": true,
-    "token": null
+    "token": SuxVoTJLbntt3EoM
 }
